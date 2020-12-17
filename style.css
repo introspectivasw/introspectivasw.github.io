@@ -1,4 +1,80 @@
-p{
-    color: red;
-    background-color: aqua;
+*{
+  color: white;
+
 }
+body, html{
+  display:block;
+  box-sizing: border-box;
+  background-color: #705d56;
+  font-family: monospace;
+}
+
+.presentation{
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  left:0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+
+}
+
+.headbar{
+  width: 50%;
+  margin-right: 25%;
+  margin-left: 25%;
+  /*height: 5%;*/
+  display: flex;
+  position: fixed;
+  top:0;
+  color: white;
+  text-align: center;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  /*background-color: red;*/
+  overflow: visible;
+  padding: 0;
+}
+.headbar ul{
+  width: 100%;
+
+}
+
+.welcome{
+  position: relative;
+  left: -10vh;
+  font-size: xx-large;
+
+}
+
+.headbar ul li{
+  width: 20%;
+  display: inline-block;
+  margin: 0;
+  font-size: x-large;
+}
+
+.mainContainer{
+  position: relative;
+
+  /*background: red;*/
+  width: 50%;
+  height: 50%;
+  top: 25%;
+  bottom: 25%;
+  margin-right: 25%;
+  margin-left: 25%;
+  padding: 2em;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+
+}
+
+h1{
+  font-weight: lighter;
+}
+
