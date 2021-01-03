@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec53e433-e715-41a9-91c2-25318e7232fe" name="Default Changelist" comment="need to check if still working">
-      <change afterPath="$PROJECT_DIR$/experience.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+    <list default="true" id="ec53e433-e715-41a9-91c2-25318e7232fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jelly.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -32,6 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,6 +42,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -107,8 +110,17 @@
       <option name="presentableId" value="Default" />
       <updated>1608848846784</updated>
       <workItem from="1608848854313" duration="4891000" />
-      <workItem from="1609033399212" duration="263000" />
+      <workItem from="1609033399212" duration="2524000" />
+      <workItem from="1609036327630" duration="337000" />
     </task>
+    <task id="LOCAL-00001" summary="need to check if still working">
+      <created>1609033708060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609033708060</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,14 +132,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="need to check if still working" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="167" y="25" width="1106" height="783" key="CommitChangelistDialog2" timestamp="1609033641822">
+    <state x="167" y="25" width="1106" height="783" key="CommitChangelistDialog2" timestamp="1609033707772">
       <screen x="0" y="25" width="1440" height="783" />
     </state>
-    <state x="167" y="25" width="1106" height="783" key="CommitChangelistDialog2/0.25.1440.783@0.25.1440.783" timestamp="1609033641822" />
-    <state x="397" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1609033402602">
+    <state x="167" y="25" width="1106" height="783" key="CommitChangelistDialog2/0.25.1440.783@0.25.1440.783" timestamp="1609033707772" />
+    <state x="320" y="153" key="Vcs.Push.Dialog.v2" timestamp="1609033750925">
       <screen x="0" y="25" width="1440" height="783" />
+    </state>
+    <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.25.1440.783@0.25.1440.783" timestamp="1609033750925" />
+    <state x="397" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1609036328338">
+      <screen x="0" y="25" width="1440" height="790" />
     </state>
     <state x="397" y="246" key="com.intellij.ide.util.TipDialog/0.25.1440.783@0.25.1440.783" timestamp="1609033402602" />
     <state x="397" y="247" key="com.intellij.ide.util.TipDialog/0.25.1440.786@0.25.1440.786" timestamp="1608848854441" />
+    <state x="397" y="248" key="com.intellij.ide.util.TipDialog/0.25.1440.790@0.25.1440.790" timestamp="1609036328338" />
   </component>
 </project>

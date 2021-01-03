@@ -1,1 +1,0 @@
-# introspectivasw.github.io
