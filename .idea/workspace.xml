@@ -1,11 +1,709 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec53e433-e715-41a9-91c2-25318e7232fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jelly.jpeg" afterDir="false" />
+    <list default="true" id="bc745f96-81c8-4af6-96bc-830cad829280" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/introspectivasw.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist" beforeDir="false" afterPath="$PROJECT_DIR$/dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/.idea/$CACHE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/css/theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/fonts/essential-font/Flaticon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/fonts/essential-font/Flaticon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/fonts/essential-font/Flaticon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/fonts/essential-font/Flaticon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/fonts/essential-font/_flaticon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/fonts/essential-font/flaticon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/fonts/essential-font/flaticon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/fonts/feather/feather.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/fonts/feather/fonts/feather.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/fonts/feather/fonts/feather.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/fonts/feather/fonts/feather.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/about-hero-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/about-me.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/airbnb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/avatar-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/avatar-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/avatar-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/avatar-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/avatar-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/avatar-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/avatar-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/avatar-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/avatar-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/avatar-big-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/bag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/bag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/book-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/book-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/book-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/category-hero-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/center-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/ceo-program-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/ceo-program-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/ceo-program-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/coach-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/coach-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/coach-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/coach-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/coach-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/coach-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/coach-img-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/coach-img-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/coach-img-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/contact-hero-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/course-hero-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/course-img-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/course-img-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/course-img-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/course-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/course-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/course-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/course-img-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/course-img-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/course-img-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/curve-shape-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/curve-shape-top.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/curve-shape.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/customer-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/digitalocean.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/error-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/event-hero-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/event-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/event-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/event-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/event-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/event-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/event-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/event-single-hero-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/featured-post-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/food-dish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/ft-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/ft-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/ft-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/gallery-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/gallery-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/gallery-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/gallery-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/gallery-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/gallery-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/google-podcast.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/hero-slide-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/hero-slide.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/home-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/home-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/home-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/home-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/home-second-hero-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/insta-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/insta-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/insta-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/insta-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/insta-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/intercom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/left-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-airbnb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-americanexpress.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-digitalocean.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-discord.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-discover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-helpCenter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-intercom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-mastercard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-netflix.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-paypal-second.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-paypal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-pinterest.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-stripe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-twitch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-visa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo-xboxone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/media.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/pageheader-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/pattern-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/pattern.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/placeholder-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/placeholder-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/podcast-hero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/podcast-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/podcast-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/podcast-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/podcast-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/podcast-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/podcast-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/podcast-img-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/podcast-img-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/podecast-single-hero-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-classic-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-classic-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-classic-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-classic-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-hero-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-thumb-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-thumb-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-thumb-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-thumb-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-thumb-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-thumb-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-thumb-img-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-thumb-img-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/post-thumb-img-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/profile-img-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/profile-img-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/profile-img-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/profile-img-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/program-group-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/program-h-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/program-h-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/program-h-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/program-h-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/program-hero-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/program-hero-single-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/program-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/program-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/rectangle-bottom-shape.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/rectangle-top-shape.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/register-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/right-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/shape.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/showcase-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/showcase-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/showcase-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/showcase-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/slider-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/slider-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/slider-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/snippets-graphics.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/speaker-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/spotify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/stories-hero-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/story-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/story-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/story-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/story-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/team-hero-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/team-member-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/team-member-img-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/team-member-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/team-member-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/team-member-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/team-member-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/team-member-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/team-member-img-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/team-member-img-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/thumb-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/thumb-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/thumb-img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/thumb-img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/thumb-img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/thumb-img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/verified.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/video-img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/video-img-fifth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/video-img-fourth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/video-img-second.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/video-img-third.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/video-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/images/webinar-single.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/js/theme.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/bootstrap/dist/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/bootstrap/dist/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/inputmask/dist/bindings/inputmask.binding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/inputmask/dist/inputmask.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/inputmask/dist/jquery.inputmask.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/ion-rangeslider/css/ion.rangeSlider.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/ion-rangeslider/js/ion.rangeSlider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/jquery-slimscroll/jquery.slimscroll.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/jquery/dist/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/jquery/dist/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/leaflet/dist/images/layers-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/leaflet/dist/images/layers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/leaflet/dist/images/marker-icon-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/leaflet/dist/images/marker-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/leaflet/dist/images/marker-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/leaflet/dist/leaflet-src.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/leaflet/dist/leaflet-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/leaflet/dist/leaflet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/leaflet/dist/leaflet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/lightpick/css/lightpick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/lightpick/lightpick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/magnific-popup/dist/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/magnific-popup/dist/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/ender.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ar-dz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ar-kw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ar-ly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ar-ma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ar-sa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ar-tn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/bm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/bo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/cv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/de-at.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/dv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/en-SG.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/en-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/en-il.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/en-nz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/es-do.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/es-us.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/fr-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/fy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/gd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/gom-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/hy-am.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/it-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/jv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/kk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/kn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/lb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/lo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/mi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/mr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ms-my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/mt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/nl-be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/nn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/pa-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/sd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/se.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/sr-cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ta.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/te.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/tet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/tg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/tl-ph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/tlh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/tzl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/tzm-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/tzm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ug-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/ur.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/uz-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/uz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/x-pseudo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/yo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/zh-hk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/locale/zh-tw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/min/locales.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/min/moment-with-locales.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/min/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/moment/package.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/packages/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/packages/lib/loaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/packages/lib/resolver/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/packages/lib/resolver/directory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/packages/lib/resolver/factory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/packages/lib/resolver/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/packages/lib/resolver/module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/packages/lib/resolver/obj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/packages/makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-abap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-abnf.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-actionscript.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-ada.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-antlr4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-apacheconf.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-apl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-applescript.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-aql.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-arduino.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-arff.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-asciidoc.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-asm6502.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-aspnet.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-autohotkey.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-autoit.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-bash.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-basic.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-batch.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-bbcode.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-bison.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-bnf.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-brainfuck.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-brightscript.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-bro.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-c.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-cil.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-clike.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-clojure.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-cmake.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-coffeescript.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-core.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-cpp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-crystal.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-csharp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-csp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-css-extras.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-css.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-d.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-dart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-diff.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-django.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-dns-zone-file.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-docker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-ebnf.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-eiffel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-ejs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-elixir.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-elm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-erb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-erlang.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-etlua.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-firestore-security-rules.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-flow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-fortran.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-fsharp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-ftl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-gcode.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-gdscript.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-gedcom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-gherkin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-git.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-glsl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-gml.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-go.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-graphql.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-groovy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-haml.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-handlebars.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-haskell.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-haxe.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-hcl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-hpkp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-hsts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-http.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-ichigojam.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-icon.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-inform7.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-ini.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-io.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-j.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-java.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-javadoc.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-javadoclike.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-javascript.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-javastacktrace.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-jolie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-jq.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-js-extras.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-js-templates.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-jsdoc.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-json.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-json5.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-jsonp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-jsx.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-julia.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-keyman.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-kotlin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-latex.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-latte.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-less.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-lilypond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-liquid.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-lisp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-livescript.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-lolcode.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-lua.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-makefile.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-markdown.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-markup-templating.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-markup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-matlab.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-mel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-mizar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-monkey.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-moonscript.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-n1ql.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-n4js.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-nand2tetris-hdl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-nasm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-neon.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-nginx.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-nim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-nix.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-nsis.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-objectivec.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-ocaml.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-opencl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-oz.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-parigp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-parser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-pascal.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-pascaligo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-pcaxis.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-perl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-php-extras.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-php.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-phpdoc.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-plsql.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-powershell.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-processing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-prolog.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-properties.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-protobuf.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-pug.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-puppet.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-pure.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-python.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-q.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-qml.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-qore.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-r.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-reason.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-regex.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-renpy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-rest.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-rip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-roboconf.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-robotframework.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-ruby.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-rust.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-sas.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-sass.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-scala.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-scheme.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-scss.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-shell-session.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-smalltalk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-smarty.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-solidity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-soy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-sparql.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-splunk-spl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-sqf.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-sql.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-stylus.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-swift.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-t4-cs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-t4-templating.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-t4-vb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-tap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-tcl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-textile.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-toml.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-tsx.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-tt2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-turtle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-twig.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-typescript.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-vala.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-vbnet.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-velocity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-verilog.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-vhdl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-vim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-visual-basic.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-wasm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-wiki.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-xeora.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-xojo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-xquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-yaml.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/components/prism-zig.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/dependencies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/autolinker/prism-autolinker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/autolinker/prism-autolinker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/autoloader/prism-autoloader.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/command-line/prism-command-line.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/command-line/prism-command-line.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/copy-to-clipboard/prism-copy-to-clipboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/custom-class/prism-custom-class.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/data-uri-highlight/prism-data-uri-highlight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/diff-highlight/prism-diff-highlight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/diff-highlight/prism-diff-highlight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/download-button/prism-download-button.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/file-highlight/prism-file-highlight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/filter-highlight-all/prism-filter-highlight-all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/highlight-keywords/prism-highlight-keywords.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/inline-color/prism-inline-color.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/inline-color/prism-inline-color.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/jsonp-highlight/prism-jsonp-highlight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/keep-markup/prism-keep-markup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/line-highlight/prism-line-highlight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/line-highlight/prism-line-highlight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/line-numbers/prism-line-numbers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/line-numbers/prism-line-numbers.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/match-braces/prism-match-braces.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/match-braces/prism-match-braces.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/normalize-whitespace/prism-normalize-whitespace.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/previewers/prism-previewers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/previewers/prism-previewers.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/remove-initial-line-feed/prism-remove-initial-line-feed.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/show-invisibles/prism-show-invisibles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/show-invisibles/prism-show-invisibles.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/show-language/prism-show-language.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/toolbar/prism-toolbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/toolbar/prism-toolbar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/unescaped-markup/prism-unescaped-markup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/unescaped-markup/prism-unescaped-markup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/wpd/prism-wpd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/plugins/wpd/prism-wpd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/prism.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/themes/prism-coy.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/themes/prism-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/themes/prism-funky.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/themes/prism-okaidia.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/themes/prism-solarizedlight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/themes/prism-tomorrow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/themes/prism-twilight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/assets/libs/prismjs/themes/prism.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/alerts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/badge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/borders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/breadcrumb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/button-group.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/changelog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/close-button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/collapse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/dropdowns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/filestructure.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/fonts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/forms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/gulp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/input-group.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/list-group.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/modal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/navs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/popovers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/progress.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/scrollspy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-breadcrumb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-clients.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-collapse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-ecommerce.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-hero.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-icon-blocks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-pageheader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-reviews.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-testimonials.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/snippet-video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/spinners.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/toasts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/tooltips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/docs/typography.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/experience.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/introspectivasw.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/skills.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,40 +711,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dist" />
   </component>
-  <component name="ProjectId" id="1m7e2BSLxzvIyL5DxLMtHpWWtpM" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1mXjfkwHVgMgCO1PGoD25w8qfyf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -104,47 +789,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec53e433-e715-41a9-91c2-25318e7232fe" name="Default Changelist" comment="" />
-      <created>1608848846784</created>
+      <changelist id="bc745f96-81c8-4af6-96bc-830cad829280" name="Default Changelist" comment="" />
+      <created>1609646934234</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608848846784</updated>
-      <workItem from="1608848854313" duration="4891000" />
-      <workItem from="1609033399212" duration="2524000" />
-      <workItem from="1609036327630" duration="337000" />
+      <updated>1609646934234</updated>
+      <workItem from="1609646936879" duration="350000" />
     </task>
-    <task id="LOCAL-00001" summary="need to check if still working">
-      <created>1609033708060</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1609033708060</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="need to check if still working" />
-    <option name="LAST_COMMIT_MESSAGE" value="need to check if still working" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="167" y="25" width="1106" height="783" key="CommitChangelistDialog2" timestamp="1609033707772">
-      <screen x="0" y="25" width="1440" height="783" />
-    </state>
-    <state x="167" y="25" width="1106" height="783" key="CommitChangelistDialog2/0.25.1440.783@0.25.1440.783" timestamp="1609033707772" />
-    <state x="320" y="153" key="Vcs.Push.Dialog.v2" timestamp="1609033750925">
-      <screen x="0" y="25" width="1440" height="783" />
-    </state>
-    <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.25.1440.783@0.25.1440.783" timestamp="1609033750925" />
-    <state x="397" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1609036328338">
-      <screen x="0" y="25" width="1440" height="790" />
-    </state>
-    <state x="397" y="246" key="com.intellij.ide.util.TipDialog/0.25.1440.783@0.25.1440.783" timestamp="1609033402602" />
-    <state x="397" y="247" key="com.intellij.ide.util.TipDialog/0.25.1440.786@0.25.1440.786" timestamp="1608848854441" />
-    <state x="397" y="248" key="com.intellij.ide.util.TipDialog/0.25.1440.790@0.25.1440.790" timestamp="1609036328338" />
   </component>
 </project>
