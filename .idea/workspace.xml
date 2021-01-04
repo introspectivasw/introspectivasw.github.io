@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc745f96-81c8-4af6-96bc-830cad829280" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/introspectivasw.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/lightbulb.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist" beforeDir="false" afterPath="$PROJECT_DIR$/dist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/.idea/$CACHE_FILE$" beforeDir="false" />
@@ -703,7 +702,8 @@
       <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/projects.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/skills.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -711,7 +711,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dist" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mXjfkwHVgMgCO1PGoD25w8qfyf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -725,13 +725,29 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -794,11 +810,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609646934234</updated>
-      <workItem from="1609646936879" duration="350000" />
+      <workItem from="1609646936879" duration="755000" />
+      <workItem from="1609800902533" duration="208000" />
+      <workItem from="1609801151878" duration="1677000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="50" key="SettingsEditor" timestamp="1609801128960">
+      <screen x="0" y="25" width="1440" height="779" />
+    </state>
+    <state x="229" y="50" key="SettingsEditor/0.25.1440.779@0.25.1440.779" timestamp="1609801128960" />
+    <state x="397" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1609801160745">
+      <screen x="0" y="25" width="1440" height="779" />
+    </state>
+    <state x="397" y="243" key="com.intellij.ide.util.TipDialog/0.25.1440.779@0.25.1440.779" timestamp="1609801160745" />
+    <state x="385" y="186" key="run.anything.popup" timestamp="1609801427989">
+      <screen x="0" y="25" width="1440" height="783" />
+    </state>
+    <state x="385" y="186" key="run.anything.popup/0.25.1440.783@0.25.1440.783" timestamp="1609801427989" />
   </component>
 </project>
