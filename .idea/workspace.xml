@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc745f96-81c8-4af6-96bc-830cad829280" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/lightbulb.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/about-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/about-me.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/about-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/about-me.html" afterDir="false" />
@@ -13,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog-classic.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-classic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-single.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/book-download-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/book-download-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/business-coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/business-coach.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/ceo-coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/ceo-coach.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar-booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar-booking.html" afterDir="false" />
@@ -30,6 +29,10 @@
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-user.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/event-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/event-single.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/help-center-article.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/help-center-article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/help-center-category.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/help-center-category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/help-center-profile-member.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/help-center-profile-member.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/help-center.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/help-center.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/life-coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/life-coach.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/podcast-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/podcast-single.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/podcast-thumbnail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/podcast-thumbnail.html" afterDir="false" />
@@ -47,6 +50,7 @@
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/stories.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/stories.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/pages/team-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/team-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/partials/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/navbar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +164,7 @@
       <updated>1609646934234</updated>
       <workItem from="1609646936879" duration="755000" />
       <workItem from="1609800902533" duration="208000" />
-      <workItem from="1609801151878" duration="7030000" />
+      <workItem from="1609801151878" duration="9319000" />
     </task>
     <servers />
   </component>
@@ -171,6 +175,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="308" y="153" key="IDE.errors.dialog" timestamp="1609813389188">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state x="308" y="153" key="IDE.errors.dialog/0.25.1440.786@0.25.1440.786" timestamp="1609813389188" />
     <state x="-120" y="50" key="SettingsEditor" timestamp="1609806028265">
       <screen x="0" y="25" width="1440" height="783" />
     </state>
