@@ -2,55 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc745f96-81c8-4af6-96bc-830cad829280" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.tmp/about-me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/assets/fonts/essential-font/flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/alerts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/badge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/borders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/breadcrumb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/button-group.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/changelog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/close-button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/collapse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/dropdowns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/filestructure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/fonts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/gulp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/input-group.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/list-group.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/navs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/popovers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/progress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/scrollspy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-breadcrumb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-clients.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-collapse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-ecommerce.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-hero.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-icon-blocks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-pageheader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-pricing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-reviews.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-team.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-testimonials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/snippet-video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/spinners.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/toasts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/tooltips.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/docs/typography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/about-me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-author.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-classic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/book-download-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/booking-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/business-coach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/ceo-coach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar-booking.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/course-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/course-thumbnail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-notifications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-payment-history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-payment-plan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-security.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-subscription.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/error-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/event-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/help-center-article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/help-center-category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/help-center-profile-member.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/help-center.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/life-coach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/password-reset-cover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/password-reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/podcast-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/podcast-thumbnail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/podcast.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/pricing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/program-grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/program-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/program-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-empty-cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-order-completed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/signin-cover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/signin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/signup-cover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/stories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/team-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/pages/verify-code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/about-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/about-me.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/about-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/about-me.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog-author.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-author.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog-category.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog-classic.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-classic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/book-download-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/book-download-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/business-coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/business-coach.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/ceo-coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/ceo-coach.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar-booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar-booking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/course-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/course-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/course-thumbnail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/course-thumbnail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-notifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-notifications.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-payment-history.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-payment-history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-payment-plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-payment-plan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-security.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-security.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-subscription.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-subscription.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-user.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/event-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/event-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/help-center-article.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/help-center-article.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/help-center-category.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/help-center-category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/help-center-profile-member.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/help-center-profile-member.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/help-center.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/help-center.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/life-coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/life-coach.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/podcast-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/podcast-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/podcast-thumbnail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/podcast-thumbnail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/podcast.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/podcast.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/program-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/program-grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/program-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/program-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/program-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/program-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/shop-cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/shop-checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/shop-empty-cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-empty-cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/shop-order-completed.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-order-completed.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/shop-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/stories.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/stories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/team-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/team-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/partials/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/navbar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +141,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -88,15 +153,15 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets/images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/assets/images" />
     </key>
@@ -164,7 +229,8 @@
       <updated>1609646934234</updated>
       <workItem from="1609646936879" duration="755000" />
       <workItem from="1609800902533" duration="208000" />
-      <workItem from="1609801151878" duration="9319000" />
+      <workItem from="1609801151878" duration="9630000" />
+      <workItem from="1609814328621" duration="484000" />
     </task>
     <servers />
   </component>
@@ -173,21 +239,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/dist" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="153" key="IDE.errors.dialog" timestamp="1609813389188">
+    <state x="308" y="153" key="IDE.errors.dialog" timestamp="1609814689853">
       <screen x="0" y="25" width="1440" height="786" />
     </state>
-    <state x="308" y="153" key="IDE.errors.dialog/0.25.1440.786@0.25.1440.786" timestamp="1609813389188" />
-    <state x="-120" y="50" key="SettingsEditor" timestamp="1609806028265">
-      <screen x="0" y="25" width="1440" height="783" />
+    <state x="308" y="153" key="IDE.errors.dialog/0.25.1440.786@0.25.1440.786" timestamp="1609814689853" />
+    <state x="229" y="50" key="SettingsEditor" timestamp="1609814817080">
+      <screen x="0" y="25" width="1440" height="786" />
     </state>
     <state x="229" y="50" key="SettingsEditor/0.25.1440.779@0.25.1440.779" timestamp="1609801128960" />
     <state x="-120" y="50" key="SettingsEditor/0.25.1440.783@0.25.1440.783" timestamp="1609806028265" />
-    <state x="397" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1609801160745">
-      <screen x="0" y="25" width="1440" height="779" />
+    <state x="229" y="50" key="SettingsEditor/0.25.1440.786@0.25.1440.786" timestamp="1609814817080" />
+    <state x="397" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1609814329527">
+      <screen x="0" y="25" width="1440" height="786" />
     </state>
     <state x="397" y="243" key="com.intellij.ide.util.TipDialog/0.25.1440.779@0.25.1440.779" timestamp="1609801160745" />
+    <state x="397" y="245" key="com.intellij.ide.util.TipDialog/0.25.1440.786@0.25.1440.786" timestamp="1609814329527" />
     <state x="385" y="186" key="run.anything.popup" timestamp="1609801427989">
       <screen x="0" y="25" width="1440" height="783" />
     </state>
