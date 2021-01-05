@@ -2,10 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc745f96-81c8-4af6-96bc-830cad829280" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/lightbulb.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/about-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/about-me.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.tmp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/about-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/about-me.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog-author.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-author.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog-category.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog-classic.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-classic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/business-coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/business-coach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/ceo-coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/ceo-coach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar-booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar-booking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/coach-webinar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/course-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/course-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/course-thumbnail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/course-thumbnail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-notifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-notifications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-payment-history.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-payment-history.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-payment-plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-payment-plan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-security.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-security.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-subscription.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-subscription.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/dashboard-user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/dashboard-user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/event-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/event-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/life-coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/life-coach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/podcast-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/podcast-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/podcast-thumbnail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/podcast-thumbnail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/podcast.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/podcast.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/program-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/program-grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/program-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/program-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/program-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/program-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/shop-cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/shop-checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/shop-empty-cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-empty-cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/shop-order-completed.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-order-completed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/shop-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/shop-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/stories.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/stories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/pages/team-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/pages/team-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/navbar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +72,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,6 +91,7 @@
       <recent name="$PROJECT_DIR$/src/assets/images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/assets/images" />
@@ -117,7 +160,7 @@
       <updated>1609646934234</updated>
       <workItem from="1609646936879" duration="755000" />
       <workItem from="1609800902533" duration="208000" />
-      <workItem from="1609801151878" duration="6416000" />
+      <workItem from="1609801151878" duration="7030000" />
     </task>
     <servers />
   </component>
