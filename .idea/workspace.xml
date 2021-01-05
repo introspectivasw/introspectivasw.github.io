@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc745f96-81c8-4af6-96bc-830cad829280" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.tmp/about-me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/about-me.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist" beforeDir="false" afterPath="$PROJECT_DIR$/dist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/.idea/$CACHE_FILE$" beforeDir="false" />
@@ -701,6 +703,9 @@
       <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/projects.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/skills.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/introspectivasw.github.io/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/business-coach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.tmp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.tmp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -711,18 +716,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mXjfkwHVgMgCO1PGoD25w8qfyf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -734,16 +742,16 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets/images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/assets/images" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/assets/images" />
     </key>
   </component>
   <component name="RunManager">
@@ -809,18 +817,22 @@
       <updated>1609646934234</updated>
       <workItem from="1609646936879" duration="755000" />
       <workItem from="1609800902533" duration="208000" />
-      <workItem from="1609801151878" duration="1957000" />
+      <workItem from="1609801151878" duration="4100000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="229" y="50" key="SettingsEditor" timestamp="1609801128960">
-      <screen x="0" y="25" width="1440" height="779" />
+    <state x="-120" y="50" key="SettingsEditor" timestamp="1609806028265">
+      <screen x="0" y="25" width="1440" height="783" />
     </state>
     <state x="229" y="50" key="SettingsEditor/0.25.1440.779@0.25.1440.779" timestamp="1609801128960" />
+    <state x="-120" y="50" key="SettingsEditor/0.25.1440.783@0.25.1440.783" timestamp="1609806028265" />
     <state x="397" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1609801160745">
       <screen x="0" y="25" width="1440" height="779" />
     </state>
