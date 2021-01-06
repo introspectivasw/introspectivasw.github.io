@@ -4,6 +4,31 @@
 <head>
     <title>Introspectiva- Contacto</title>
     @@include("./partials/head.html")
+    <script type="text/javascript"src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+    <script type="text/javascript">
+        (function() {
+            emailjs.init("user_XLHtXr9xJHK9DlS4Oi3E6");
+        })();
+    </script>
+    <script type="text/javascript">
+        window.onload = function() {
+            document.getElementById('contact-form').addEventListener('submit', function(event) {
+
+                event.preventDefault();
+                // generate a five digit number for the contact_number variable
+                // this.contact_number.value = Math.random() * 100000 | 0;
+                // these IDs from the previous steps
+                emailjs.sendForm("service_yl5xzwg","contact_form", this)
+                    .then(function() {
+                        alert("So far so good");
+                        console.log('SUCCESS!');
+                    }, function(error) {
+                        alert("So far so bad");
+                        console.log('FAILED...', error);
+                    });
+            });
+        }
+    </script>
 </head>
 
 <body>
@@ -38,7 +63,7 @@
                                     Si necesitas alguno de nuestros servicios, <br />por favor contactanos.
                                 </p>
                             </div>
-                            <form class="row">
+                            <form id="contact-form" class="row">
                                 <div class="from-group col-md-6 col-12 mb-3">
                                     <label for="fname" class="sr-only">First Name</label>
                                     <input type="text" class="form-control" id="fname" placeholder="Nombre" name="fname" required />
@@ -61,7 +86,7 @@
                     </select>
                                 </div>
                                 <div class="col-12">
-                                    <button type="submit" class="btn btn-primary btn-block">
+                                    <button type="submit" value="Send" class="btn btn-primary btn-block" >
                       Enviar Mensaje
                     </button>
                                 </div>
