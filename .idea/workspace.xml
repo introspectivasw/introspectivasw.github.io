@@ -4,6 +4,7 @@
     <list default="true" id="bc745f96-81c8-4af6-96bc-830cad829280" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/.tmp/about-me.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.tmp/assets/fonts/essential-font/flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.tmp/contact.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.tmp/docs/alerts.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.tmp/docs/badge.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.tmp/docs/borders.html" afterDir="false" />
@@ -114,8 +115,10 @@
       <change afterPath="$PROJECT_DIR$/src/.tmp/pages/stories.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.tmp/pages/team-page.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.tmp/pages/verify-code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/navbar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +143,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -152,16 +155,16 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/assets/images" />
-      <recent name="$PROJECT_DIR$/src" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets/images" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/src/assets/images" />
     </key>
   </component>
@@ -238,7 +241,7 @@
       <workItem from="1609800902533" duration="208000" />
       <workItem from="1609801151878" duration="9630000" />
       <workItem from="1609814328621" duration="748000" />
-      <workItem from="1609888550554" duration="342000" />
+      <workItem from="1609888550554" duration="3319000" />
     </task>
     <servers />
   </component>
@@ -256,10 +259,10 @@
       <screen x="0" y="25" width="1440" height="786" />
     </state>
     <state x="308" y="153" key="IDE.errors.dialog/0.25.1440.786@0.25.1440.786" timestamp="1609814689853" />
-    <state x="229" y="50" key="SettingsEditor" timestamp="1609814817080">
-      <screen x="0" y="25" width="1440" height="786" />
+    <state x="229" y="50" key="SettingsEditor" timestamp="1609897824998">
+      <screen x="0" y="25" width="1440" height="779" />
     </state>
-    <state x="229" y="50" key="SettingsEditor/0.25.1440.779@0.25.1440.779" timestamp="1609801128960" />
+    <state x="229" y="50" key="SettingsEditor/0.25.1440.779@0.25.1440.779" timestamp="1609897824998" />
     <state x="-120" y="50" key="SettingsEditor/0.25.1440.783@0.25.1440.783" timestamp="1609806028265" />
     <state x="229" y="50" key="SettingsEditor/0.25.1440.786@0.25.1440.786" timestamp="1609814817080" />
     <state x="397" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1609888551928">
